@@ -34,6 +34,10 @@ p {
 }
 
 img {
-  float: right;
-  margin-right: 15px;
+  padding-bottom: 15px;
+}
+
+#area {
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
