@@ -41,3 +41,8 @@ img {
   padding-top: 15px;
   padding-bottom: 15px;
 }
+
+label {
+  color: #000;
+  font-weight: bold;
+}
